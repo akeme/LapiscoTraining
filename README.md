@@ -1,7 +1,7 @@
 # LapiscoTraining
 exercícios proposto pelo Prof Pedrosa  do Laboratório Lapisco/IFCE Campus Fortaleza
 
-**Assuntos: ** 
+**Assuntos:** 
 
 *  Visão Computacional
 * Machine learning
